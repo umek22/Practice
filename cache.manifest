@@ -1,0 +1,14 @@
+CACHE MANIFEST
+
+js/jquery.mobile-1.0.min.css
+_assets/css/jqm-docs.css
+js/jquery.js
+experiments/themeswitcher/jquery.mobile.themeswitcher.js
+_assets/js/jqm-docs.js
+js/jquery.mobile-1.0.min.js
+
+FALLBACK:
+/offline.html
+
+NETWORK:
+*
